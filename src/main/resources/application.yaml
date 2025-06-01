@@ -1,0 +1,6 @@
+server:
+  port: 7123
+
+spring:
+  application:
+    name: vowchapter
